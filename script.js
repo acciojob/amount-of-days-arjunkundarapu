@@ -11,3 +11,4 @@ function daysOfAYear(year){
 	}
 	return 365;
 }
+daysOfAYear(2022);
